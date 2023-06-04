@@ -1,10 +1,10 @@
-# MERN Skeleton
+# MERN Classroom
 
-A skeleton application with basic user CRUD and auth features - developed using React, Node, Express and MongoDB.
+A simple web-based classroom application that allows instructors to add courses with lessons, while students can enroll in these courses and track their progress. - developed using React, Node, Express and MongoDB.
 
-![MERN Skeleton](https://mernbook.s3.amazonaws.com/git+/skeleton2.png "MERN Skeleton")
+![MERN Skeleton](https://mernbook.s3.amazonaws.com/git+/classroom.png "MERN Skeleton") 
 
-### [Live Demo](http://skeleton2.mernbook.com/ "MERN Skeleton")
+### [Live Demo](http://classroom.mernbook.com/ "MERN Classroom") 
 
 #### What you need to run this code
 1. Node (13.12.0)
